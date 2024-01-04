@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370018809773",
+    "project_id": "cryptolistapp-2a437",
+    "storage_bucket": "cryptolistapp-2a437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370018809773:android:322023b4a8319c038d5324",
+        "android_client_info": {
+          "package_name": "com.example.cryptoriencies_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBals7yCKzZUG6himtAz3D0zrqaEfJtkr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
